@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently focused on DevOps and Computer Vision projects<br>🌱 I’m currently learning Kubernetes, Helm, and advanced automation tools<br>👯 I’m looking to collaborate on DevOps and infrastructure automation projects<br>🤝 I’m seeking guidance and opportunities in DevOps best practices<br>
+🔭 I’m currently focused on DevOps and Computer Vision projects<br>🌱 I’m currently learning Kubernetes, Docker, Terraform and advanced automation tools<br>👯 I’m looking to collaborate on DevOps and infrastructure automation projects<br>🤝 I’m seeking guidance and opportunities in DevOps best practices<br>
 
 
 ## 🌐 Socials:
